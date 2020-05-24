@@ -15,7 +15,7 @@ Exercise 6: Make Array Consecutive 2
 
 Exercise 7: Almost Increasing Sequence
 
-Exercise 8: matrix Elements sSum
+Exercise 8: matrix Elements Sum
 
 Exercise 9: All Longes Strings
 
